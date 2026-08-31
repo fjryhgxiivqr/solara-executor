@@ -16,7 +16,7 @@ The **☀️ Solara Executor** delivers solar-powered script execution for Roblo
 </div>
 
 <div align="center">
-<img alt="Solara Executor Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_shooter.png" />
+<img alt="Solara Executor Interface" src="assets/preview.png" />
 </div>
 
 ---
